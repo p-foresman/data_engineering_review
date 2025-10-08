@@ -5,9 +5,9 @@
         * [Running code via Jupyter Notebooks](#running-code-via-jupyter-notebooks)
         * [Airflow & dbt](#airflow--dbt)
 
-# Data Engineering for Beginners
+# Data Engineering Review
 
-Code for the [Data Engineering for Beginners e-book](https://de101.startdataengineering.com/).
+Code for the [Data Engineering Review e-book](https://de101.startdataengineering.com/).
 
 ## Setup
 
